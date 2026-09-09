@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 946204,
       "digest": "sha256:5134575c828e36f72d8d4558971d1e3e4ff9db88512cb619d63ad3c163f3e473",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2025-10-15T18:41:26Z",
       "updated_at": "2025-10-15T18:41:26Z",
       "browser_download_url": "https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1269268,
       "digest": "sha256:5cb024d2b825a2ad89d0bde3df977e17b22e5eb719ccdc2c0794b57cf4c6933d",
-      "download_count": 170,
+      "download_count": 171,
       "created_at": "2025-10-15T18:41:27Z",
       "updated_at": "2025-10-15T18:41:27Z",
       "browser_download_url": "https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst"
