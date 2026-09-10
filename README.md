@@ -12,6 +12,18 @@ A simple cli for logs splitting
 x install logss
 ```
 
+## Code insight
+
+Total: **2,726** lines of code across **26** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 2,530 | 47 | 301 | 16 |
+| Toml | 159 | 9 | 25 | 5 |
+| Yaml | 33 | 2 | 0 | 2 |
+| Svg | 4 | 0 | 0 | 1 |
+| Markdown | 0 | 444 | 151 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/todoesverso/logss>
@@ -22,19 +34,6 @@ x install logss
 - **Latest**: `v0.0.4` (2025-10-15)
 - **Last commit**: 2025-10-15
 - **Assets in release**: 8
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [logss_v0.0.4_x86_64-pc-windows-gnu.zip](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-pc-windows-gnu.zip) | 1.1 MiB | `native/win/x64` |
-| [logss_v0.0.4_x86_64-pc-windows-gnu.zip.sha256sum](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-pc-windows-gnu.zip.sha256sum) | 103 B | `native/win/x64` |
-| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.gz](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x64/musl` |
-| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.gz.sha256sum](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.gz.sha256sum) | 110 B | `native/linux/x64/musl` |
-| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz) | 924.0 KiB | `native/linux/x64/musl` |
-| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz.sha256sum](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz.sha256sum) | 110 B | `native/linux/x64/musl` |
-| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst) | 1.2 MiB | `native/linux/x64/musl` |
-| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst.sha256sum](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst.sha256sum) | 111 B | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -49,20 +48,24 @@ x install logss
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 3 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 1 | 1 | 3 | 0 | 0 | 1 |
+| last720d | 2024-09-20 | 1 | 1 | 3 | 0 | 0 | 1 |
 
-## Code size
+## Release assets
 
-Total: **2,726** lines of code across **26** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 2,530 | 47 | 301 | 16 |
-| Toml | 159 | 9 | 25 | 5 |
-| Yaml | 33 | 2 | 0 | 2 |
-| Svg | 4 | 0 | 0 | 1 |
-| Markdown | 0 | 444 | 151 | 2 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [logss_v0.0.4_x86_64-pc-windows-gnu.zip](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-pc-windows-gnu.zip) | 1.1 MiB | `native/win/x64` |
+| [logss_v0.0.4_x86_64-pc-windows-gnu.zip.sha256sum](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-pc-windows-gnu.zip.sha256sum) | 103 B | `native/win/x64` |
+| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.gz](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x64/musl` |
+| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.gz.sha256sum](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.gz.sha256sum) | 110 B | `native/linux/x64/musl` |
+| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz) | 924.0 KiB | `native/linux/x64/musl` |
+| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz.sha256sum](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz.sha256sum) | 110 B | `native/linux/x64/musl` |
+| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst) | 1.2 MiB | `native/linux/x64/musl` |
+| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst.sha256sum](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst.sha256sum) | 111 B | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -73,4 +76,4 @@ Install metadata for logss lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:33:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:49:28Z._
