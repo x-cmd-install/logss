@@ -22,7 +22,19 @@ x install logss
 - **Latest**: `v0.0.4` (2025-10-15)
 - **Last commit**: 2025-10-15
 - **Assets in release**: 8
-- **Published**: 2025-10-15T18:39:21Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [logss_v0.0.4_x86_64-pc-windows-gnu.zip](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-pc-windows-gnu.zip) | 1.1 MiB | `native/win/x64` |
+| [logss_v0.0.4_x86_64-pc-windows-gnu.zip.sha256sum](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-pc-windows-gnu.zip.sha256sum) | 103 B | `native/win/x64` |
+| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.gz](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/x64/musl` |
+| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.gz.sha256sum](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.gz.sha256sum) | 110 B | `native/linux/x64/musl` |
+| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz) | 924.0 KiB | `native/linux/x64/musl` |
+| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz.sha256sum](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.xz.sha256sum) | 110 B | `native/linux/x64/musl` |
+| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst) | 1.2 MiB | `native/linux/x64/musl` |
+| [logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst.sha256sum](https://github.com/todoesverso/logss/releases/download/v0.0.4/logss_v0.0.4_x86_64-unknown-linux-musl.tar.zst.sha256sum) | 111 B | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -57,8 +69,8 @@ Total: **2,726** lines of code across **26** files in the top 5 languages.
 Install metadata for logss lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `logss` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/logss.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/logss.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:04:49Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:33:41Z._
